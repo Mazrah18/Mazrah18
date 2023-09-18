@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate software developer, Grad Student @ UCR</h3>
 
-- 🔭 I’m currently working on **Messaging Platform**
+- 🔭 I’m currently working on **Messaging Platform while learning Redux and Redis**
 
-- 🌱 I’m currently learning **Tailwind CSS and TypeScript**
+- 🌱 I’m currently learning **Docker and System Design Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://parth-bhatt.netlify.app/](https://parth-bhatt.netlify.app/)
 
