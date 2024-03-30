@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://parth-bhatt.netlify.app/](https://parth-bhatt.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript, Python HTML, CSS, Data Science queries.**
+- 💬 Ask me about ** JavaScript,MERN Stack, Web development, Python & Data Science queries.**
 
 - 📫 How to reach me **parthbhatt1810@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ESozjGDILwO-zYvKyC_m5LpyA_pgjyoH/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1WC6rtPl6YPW914zQlx76D286dlVl6yGR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
