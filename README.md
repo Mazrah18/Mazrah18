@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate software developer, Grad Student @ UCR</h3>
 
-- 🔭 I’m currently working on **Messaging Platform while learning Redux and Redis**
+- 🔭 I’m currently working on **Messaging Platform while learning Redux and Next.js**
 
 - 🌱 I’m currently learning **Docker and System Design Frameworks**
 
