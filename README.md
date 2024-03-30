@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://parth-bhatt.netlify.app/](https://parth-bhatt.netlify.app/)
 
-- 💬 Ask me about **JavaScript,MERN Stack, Web development, Python & Data Science queries.**
+- 💬 Ask me about **Web development, Python & Data Science queries.**
 
 - 📫 How to reach me **parthbhatt1810@gmail.com**
 
