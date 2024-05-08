@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **parthbhatt453@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1WC6rtPl6YPW914zQlx76D286dlVl6yGR/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1UioCyooI0Cu8Ur4NyOyTAM28Q_oudp_d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
