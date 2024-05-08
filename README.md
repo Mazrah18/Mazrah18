@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web development, Python & Data Science queries.**
 
-- 📫 How to reach me **parthbhatt1810@gmail.com**
+- 📫 How to reach me **parthbhatt453@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1WC6rtPl6YPW914zQlx76D286dlVl6yGR/view?usp=sharing)
 
