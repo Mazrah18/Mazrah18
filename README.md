@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **Docker and System Design Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://parth-bhatt.netlify.app/](https://parth-bhatt.netlify.app/)
 
 - 💬 Ask me about **Web development, Python & Data Science queries.**
 
-- 📫 How to reach me **parthbhatt453@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1UioCyooI0Cu8Ur4NyOyTAM28Q_oudp_d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
